@@ -39,7 +39,7 @@ The experimental dataset consists of **436 samples** extracted from peer-reviewe
 - **Input Parameters:** Nanoparticle type, base fluid, temperature (°C), volume concentration (φ), base fluid density (ρ<sub>bf</sub>), density of primary (ρ<sub>np1</sub>) and secondary nanoparticles (ρ<sub>np2</sub>), and volume mixture ratios.
 - **Output Parameter:** Hybrid nanofluid density (ρ<sub>hybrid</sub>).
 
-#### The dataset is also available to be downloaded from following sites, given the paper is refrenced in the study:
+#### The dataset is also available to be downloaded from following sites, given the paper is referenced in the study:
 
 - **[Kaggle]()**
 - **[HuggingFace]()**
