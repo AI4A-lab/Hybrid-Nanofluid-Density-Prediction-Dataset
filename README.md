@@ -2,6 +2,8 @@
 
 This repository contains the dataset for predicting hybrid nanofluid density using various parameters. The dataset presented here is utilized in the research paper:
 
+![Graphical Abstract](Graphical_Abstract.jpg)
+
 ### [A Computational Intelligence Framework Integrating Data Augmentation and Meta-Heuristic Optimization Algorithms for Enhanced Hybrid Nanofluid Density Prediction Through Machine and Deep Learning Paradigms](https://doi.org/10.1109/ACCESS.2025.3543475)
 
 - **Published in:** IEEE Access  
@@ -41,7 +43,7 @@ The experimental dataset consists of **436 samples** extracted from peer-reviewe
 
 #### The dataset is also available to be downloaded from following sites, given the paper is referenced in the study:
 
-- **[Kaggle]()**
+- **[Kaggle](https://www.kaggle.com/datasets/ai4a-lab/nanofluid-density-prediction)**
 - **[HuggingFace]()**
 
 ## Citation
